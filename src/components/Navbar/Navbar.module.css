@@ -1,0 +1,10 @@
+.nav-item {
+  border-bottom: 3px solid rgba(255, 0, 0, 0);
+}
+
+
+.activeNavItem {
+  padding: 10px;
+  border-bottom: 2px solid #fefffe; 
+  box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.2); 
+}
